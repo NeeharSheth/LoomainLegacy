@@ -1,0 +1,11 @@
+#images{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    height: 300px;
+}
+label{
+    font-size: 40px;
+}
+#mycarousel{
+    background-color: lavender;
+}
